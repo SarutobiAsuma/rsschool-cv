@@ -1,1 +1,1 @@
-[rsschool-cv](https://SarutobiAsuma.github.io/rsschool-cv/cv)
+[rsschool-cv](https://SarutobiAsuma.github.io/rsschool-cv/)
