@@ -17,14 +17,14 @@ I have good soft skills and I enjoy learning new things in different areas of ou
 * basic knowledge of Python, С/С++, C#, Java, Kotlin
 * Windows, Linux(Ubuntu, Fedora), MacOS 
 ## **Code example**
-'''
+```
 SELECT 
     CASE number % 2 
         WHEN 0 THEN 'Even' 
 	ELSE 'Odd'
     END
     as is_even FROM numbers
-'''
+```
 ## **Education**
 * Belarusian State University of Transport, Gomel, Belarus (now) 
     * Faculty of Economics and Business Technologies.
